@@ -1,6 +1,7 @@
 ## IndianRecipes - GDG Mumbai Demo
 
-<img width="1135" alt="app_screenshot" src="https://github.com/YugabyteDB-Samples/yugarecipes/assets/2041330/1bcdec08-b11c-4a58-900a-e136070202a8">
+<img width="1615" alt="image" src="https://github.com/user-attachments/assets/545befd7-d556-463d-bef0-987065be2ab0">
+
 
 ## Prerequisites
 
